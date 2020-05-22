@@ -3,5 +3,5 @@ PROYECTO SOCKET DE INSTAGRAM
 
 ##Usuario de Prueba
 
-stillgonzalez123
-abc$$$123
+###Usuario: stillgonzalez123
+###Contraseña: abc$$$123
